@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 group-title="Pelis VLC" tvg-id="Jungle Cruise 2021" tvg-logo="" ,Jungle Cruise 2021
+http://192.168.1.132:37218/2012/M4BOhVhANbp46lUKVhZfY7vVYyUA/000000.mkv
+#EXTINF:-1 group-title="Pelis VLC" tvg-id="La Guerra del Mañana 2021" tvg-logo="" ,La Guerra del Mañana 2021
+http://192.168.1.132:37218/2013/ZXTcaAtrYAiB7X4QQ8pJB97CxEwA/000000.mkv
+#EXTINF:-1 group-title="Pelis VLC" tvg-id="Mar Del Norte 2022" tvg-logo="" ,Mar Del Norte 2022
+http://192.168.1.132:37218/2014/tjRPWwlU0w37PNxwwoypHrfFElIA/000000.mkv
+#EXTINF:-1 group-title="Pelis VLC" tvg-id="Padre No Hay Mas Que Uno 3 2022" tvg-logo="" ,Padre No Hay Mas Que Uno 3 2022
+http://192.168.1.132:37218/2016/9zk0YyWvc8YfkKzAzeA1PnwcMWAA/000000.mkv
+#EXTINF:-1 group-title="Pelis VLC" tvg-id="Persecucion Mortal 2022" tvg-logo="" ,Persecucion Mortal 2022
+http://192.168.1.132:37218/2017/WDA8irh5hV4chkf3ATHlzMGTpTAA/000000.mkv
+#EXTINF:-1 group-title="Pelis VLC" tvg-id="Por Los Pelos 2022" tvg-logo="" ,Por Los Pelos 2022
+http://192.168.1.132:37218/2018/YENWhVKfF7Asq3PYcAPfDfoFGSIA/000000.mkv
+#EXTINF:-1 group-title="Pelis VLC" tvg-id="Precio Venganza 2022" tvg-logo="" ,Precio Venganza 2022
+http://192.168.1.132:37218/2019/Lu0MwNVyRPMpVWACh5csbAWDbn8A/000000.mkv
+#EXTINF:-1 group-title="Pelis VLC" tvg-id="SAS El ascenso del Cisne Negro 2021" tvg-logo="" ,SAS El ascenso del Cisne Negro 2021
+http://192.168.1.132:37218/2020/yAgDZLkwCpK2TDZoKTRPuLte9Y4A/000000.mkv
+#EXTINF:-1 group-title="Pelis VLC" tvg-id="Shang Chin y los 10 Anillos 2021" tvg-logo="" ,Shang Chin y los 10 Anillos 2021
+http://192.168.1.132:37218/2021/QHaxeD5RicntG8qM8Ek5wTR1P0YA/000000.mkv
+#EXTINF:-1 group-title="Pelis VLC" tvg-id="Sin Tiempo Para Morir 2021" tvg-logo="" ,Sin Tiempo Para Morir 2021
+http://192.168.1.132:37218/2022/ABdH5RzFYCweBjSUM8h4iFX8qiUA/000000.mkv
+#EXTINF:-1 group-title="Pelis VLC" tvg-id="Snake Eyes El Origen 2021" tvg-logo="" ,Snake Eyes El Origen 2021
+http://192.168.1.132:37218/2023/mESYVqAoIJmqTNXY3JfNRxOxKXAA/000000.mkv
