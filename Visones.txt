@@ -1,64 +1,64 @@
 #EXTM3U
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Jungle Cruise 2021" tvg-logo="https://www.imdb.com/title/tt0870154/?ref_=nv_sr_srsg_3" ,Jungle Cruise 2021
-http://83.165.97.6:37218/2012/M4BOhVhANbp46lUKVhZfY7vVYyUA/000000.mkv
+http://83.165.97.26:37218/2012/M4BOhVhANbp46lUKVhZfY7vVYyUA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="La Guerra del Mañana 2021" tvg-logo="" ,La Guerra del Mañana 2021
-http://83.165.97.6:37218/2013/ZXTcaAtrYAiB7X4QQ8pJB97CxEwA/000000.mkv
+http://83.165.97.26:37218/2013/ZXTcaAtrYAiB7X4QQ8pJB97CxEwA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Mar Del Norte 2022" tvg-logo="" ,Mar Del Norte 2022
-http://83.165.97.6:37218/2014/tjRPWwlU0w37PNxwwoypHrfFElIA/000000.mkv
+http://83.165.97.26:37218/2014/tjRPWwlU0w37PNxwwoypHrfFElIA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Monster Hunter 2021" tvg-logo="" ,Monster Hunter 2021
-http://83.165.97.6:37218/2015/n8rMkZHX6lZAqga6JoWvAvPiIAEA/000000.mkv
+http://83.165.97.26:37218/2015/n8rMkZHX6lZAqga6JoWvAvPiIAEA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Padre No Hay Mas Que Uno 3 2022" tvg-logo="" ,Padre No Hay Mas Que Uno 3 2022
-http://83.165.97.6:37218/2016/9zk0YyWvc8YfkKzAzeA1PnwcMWAA/000000.mkv
+http://83.165.97.26:37218/2016/9zk0YyWvc8YfkKzAzeA1PnwcMWAA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Persecucion Mortal 2022" tvg-logo="" ,Persecucion Mortal 2022
-http://83.165.97.6:37218/2017/WDA8irh5hV4chkf3ATHlzMGTpTAA/000000.mkv
+http://83.165.97.26:37218/2017/WDA8irh5hV4chkf3ATHlzMGTpTAA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Por Los Pelos 2022" tvg-logo="" ,Por Los Pelos 2022
-http://83.165.97.6:37218/2018/YENWhVKfF7Asq3PYcAPfDfoFGSIA/000000.mkv
+http://83.165.97.26:37218/2018/YENWhVKfF7Asq3PYcAPfDfoFGSIA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Precio Venganza 2022" tvg-logo="" ,Precio Venganza 2022
-http://83.165.97.6:37218/2019/Lu0MwNVyRPMpVWACh5csbAWDbn8A/000000.mkv
+http://83.165.97.26:37218/2019/Lu0MwNVyRPMpVWACh5csbAWDbn8A/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="SAS El ascenso del Cisne Negro 2021" tvg-logo="" ,SAS El ascenso del Cisne Negro 2021
-http://83.165.97.6:37218/2020/yAgDZLkwCpK2TDZoKTRPuLte9Y4A/000000.mkv
+http://83.165.97.26:37218/2020/yAgDZLkwCpK2TDZoKTRPuLte9Y4A/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Shang Chin y los 10 Anillos 2021" tvg-logo="" ,Shang Chin y los 10 Anillos 2021
-http://83.165.97.6:37218/2021/QHaxeD5RicntG8qM8Ek5wTR1P0YA/000000.mkv
+http://83.165.97.26:37218/2021/QHaxeD5RicntG8qM8Ek5wTR1P0YA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Sin Tiempo Para Morir 2021" tvg-logo="" ,Sin Tiempo Para Morir 2021
-http://83.165.97.6:37218/2022/ABdH5RzFYCweBjSUM8h4iFX8qiUA/000000.mkv
+http://83.165.97.26:37218/2022/ABdH5RzFYCweBjSUM8h4iFX8qiUA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Snake Eyes El Origen 2021" tvg-logo="" ,Snake Eyes El Origen 2021
-http://83.165.97.6:37218/2023/mESYVqAoIJmqTNXY3JfNRxOxKXAA/000000.mkv
+http://83.165.97.26:37218/2023/mESYVqAoIJmqTNXY3JfNRxOxKXAA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Bullet Train 2022" tvg-logo="" ,Bullet Train 2022
-http://83.165.97.6:37218/2024/gjxAqCSASD6FMFAXb5OmU08SvskA/000000.mkv
+http://83.165.97.26:37218/2024/gjxAqCSASD6FMFAXb5OmU08SvskA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Elvis 2022" tvg-logo="" ,Elvis 2022
-http://83.165.97.6:37218/2025/FN85qALicC3TB4Z2goBFW5EkAj0A/000000.mkv
+http://83.165.97.26:37218/2025/FN85qALicC3TB4Z2goBFW5EkAj0A/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Fullmetal Alchemist La venganza de cicatriz 2022" tvg-logo="" ,Fullmetal Alchemist La venganza de cicatriz 2022
-http://83.165.97.6:37218/2026/wbKOmhciJYDJkHbSO6AQgDA9qMMA/000000.mkv
+http://83.165.97.26:37218/2026/wbKOmhciJYDJkHbSO6AQgDA9qMMA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Jurassic World Dominion 2022" tvg-logo="" ,Jurassic World Dominion 2022
-http://83.165.97.6:37218/2027/zGJn7sEnG2Cod9i6tEaWXADMVmoA/000000.mkv
+http://83.165.97.26:37218/2027/zGJn7sEnG2Cod9i6tEaWXADMVmoA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Pinocho 2022" tvg-logo="" ,Pinocho 2022
-http://83.165.97.6:37218/2028/HGSyNBWIwNF0QDM48QGPDAYmcVsA/000000.mkv
+http://83.165.97.26:37218/2028/HGSyNBWIwNF0QDM48QGPDAYmcVsA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Project Gemini 2022" tvg-logo="" ,Project Gemini 2022
-http://83.165.97.6:37218/2029/EbGEAjB0AcqI7AN2TUoRYrWLJyYA/000000.mkv
+http://83.165.97.26:37218/2029/EbGEAjB0AcqI7AN2TUoRYrWLJyYA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Samaritan 2022" tvg-logo="" ,Samaritan 2022
-http://83.165.97.6:37218/2030/ApHyFlz27sXupDgtZ3uDpE8L3QgA/000000.mkv
+http://83.165.97.26:37218/2030/ApHyFlz27sXupDgtZ3uDpE8L3QgA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Sobreviviendo en Marte 2021" tvg-logo="" ,Sobreviviendo en Marte 2021
-http://83.165.97.6:37218/2031/Ws7QYCZuae0YnskyDZzGgNK0ybQA/000000.mkv
+http://83.165.97.26:37218/2031/Ws7QYCZuae0YnskyDZzGgNK0ybQA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Thor Love and Thunder 2022" tvg-logo="" ,Thor Love and Thunder 2022
-http://83.165.97.6:37218/2032/FSmmdV7lQ4dZyrRYkAHVApIPtngA/000000.mkv
+http://83.165.97.26:37218/2032/FSmmdV7lQ4dZyrRYkAHVApIPtngA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Top Gun Maverick 2022" tvg-logo="" ,Top Gun Maverick 2022
-http://83.165.97.6:37218/2033/oSWxfzmpntq6LytUreCOSH5w4rYA/000000.mkv
+http://83.165.97.26:37218/2033/oSWxfzmpntq6LytUreCOSH5w4rYA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Batman The Dark Knight Batman Begins" tvg-logo="" ,Batman The Dark Knight Batman Begins
-http://83.165.97.6:37218/2043/EMcJakgE8klO5kX7cyQh3P7CaxwA/000000.mkv
+http://83.165.97.26:37218/2043/EMcJakgE8klO5kX7cyQh3P7CaxwA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Batman The Dark Knight La Leyenda Renace" tvg-logo="" ,Batman The Dark Knight La Leyenda Renace
-http://83.165.97.6:37218/2044/Z4LCH7xbIZlqhw1B3cgR8LMVGvwA/000000.mkv
+http://83.165.97.26:37218/2044/Z4LCH7xbIZlqhw1B3cgR8LMVGvwA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Linterna verde 2011" tvg-logo="" ,Linterna verde 2011
-http://83.165.97.6:37218/2045/jkh6GhVtWlS36eiN2gfgAZTvdv0A/000000.mkv
+http://83.165.97.26:37218/2045/jkh6GhVtWlS36eiN2gfgAZTvdv0A/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Superman I La Película 1978" tvg-logo="" ,Superman I La Película 1978
-http://83.165.97.6:37218/2046/JABFX6AvH1HtRPYY1Wx0qvI4ZzgA/000000.mkv
+http://83.165.97.26:37218/2046/JABFX6AvH1HtRPYY1Wx0qvI4ZzgA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Superman II 1980" tvg-logo="" ,Superman II 1980
-http://83.165.97.6:37218/2047/XVNrBJXH9chyQzOj107dOAkfAhQA/000000.mkv
+http://83.165.97.26:37218/2047/XVNrBJXH9chyQzOj107dOAkfAhQA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Superman III 1983" tvg-logo="" ,Superman III 1983
-http://83.165.97.6:37218/2048/7M8X9vd1bdpOseOPlbkzQX62m7IA/000000.mkv
+http://83.165.97.26:37218/2048/7M8X9vd1bdpOseOPlbkzQX62m7IA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Superman IV 1987" tvg-logo="" ,Superman IV 1987
-http://83.165.97.6:37218/2049/37VZfSbuIsc6kwIPNa7CpmbbqScA/000000.mkv
+http://83.165.97.26:37218/2049/37VZfSbuIsc6kwIPNa7CpmbbqScA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Superman Returns 2006" tvg-logo="" ,Superman Returns 2006
-http://83.165.97.6:37218/2050/Aw0Zuwi0Vqrwfu2b9jibiOjVskQA/000000.mkv
+http://83.165.97.26:37218/2050/Aw0Zuwi0Vqrwfu2b9jibiOjVskQA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="superman The Man of Steel 2013" tvg-logo="https://www.imdb.com" ,superman The Man of Steel 2013
-http://83.165.97.6:37218/2051/ECF1phDIiHoAkxr9yF8jFMesoAUA/000000.mkv
+http://83.165.97.26:37218/2051/ECF1phDIiHoAkxr9yF8jFMesoAUA/000000.mkv
 
