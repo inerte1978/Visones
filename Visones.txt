@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Jungle Cruise 2021" tvg-logo="https://www.imdb.com/title/tt0870154/?ref_=nv_sr_srsg_3" ,Jungle Cruise 20
-http://100.105.70.135:37218/2012/M4BOhVhANbp46lUKVhZfY7vVYyUA/000000.mkv
+http://100.105.70.189:37218/2012/M4BOhVhANbp46lUKVhZfY7vVYyUA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="La Guerra del Mañana 2021" tvg-logo="" ,La Guerra del Mañana 2021
 http://83.165.97.26:37218/2013/ZXTcaAtrYAiB7X4QQ8pJB97CxEwA/000000.mkv
 #EXTINF:-1 group-title="Pelis VLC" tvg-id="Mar Del Norte 2022" tvg-logo="" ,Mar Del Norte 2022
