@@ -27,7 +27,7 @@ http://77.26.132.122:30200/2105/WbtMKphvcNUbBoq1vAPyHzaqcykA/000000.m3u8
 http://77.26.132.122:30200/2106/YENWhVKfF7Asq3PYcAPfDfoFGSIA/000000.m3u8 
 #EXTINF:-1  group-title="Peliculas" tvg-id="Precio Venganza 2022" tvg-logo="" ,Precio Venganza 2022 
 http://77.26.132.122:30200/2107/Lu0MwNVyRPMpVWACh5csbAWDbn8A/000000.m3u8 
-#EXTINF:-1  group-title="Peliculas" tvg-id="Project Gemini 2022" tvg-logo="https://www.imdb.com/title/tt5656994/mediaviewer/rm993729281/?ref_=tt_ov_i" ,Project Gemini 2022
+#EXTINF:-1  group-title="Peliculas" tvg-id="Project Gemini 2022" tvg-logo="https://www.covercity.net/displaycover/medium/d03a6da3a61d4bfd4db681809140a772" ,Project Gemini 2022
 http://77.26.132.122:30200/2108/TyY3OlhDh3OUg1I5BJ5ClK989KkA/000000.m3u8
 #EXTINF:-1  group-title="Peliculas" tvg-id="Samaritan 2022" tvg-logo="" ,Samaritan 2022
 http://77.26.132.122:30200/2109/usIDbUaaOBE8sEAai10QHSAn4RoA/000000.m3u8 
