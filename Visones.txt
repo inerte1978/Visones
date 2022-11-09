@@ -45,3 +45,49 @@ http://77.26.132.122:30200/2114/Wn2MeiWCWtt37VD37ZToa5RtgoQA/000000.m3u8
 http://77.26.132.122:30200/2115/lv7qntZVRS0MOQVh6DfNFX8EgMEA/000000.m3u8 
 #EXTINF:-1  group-title="Peliculas" tvg-id="Top Gun Maverick 2022" tvg-logo="https://www.covercity.net/displaycover/medium/2a058cede4cebb57d35e0822f36496f1" ,Top Gun Maverick 2022 
 http://77.26.132.122:30200/2116/tBA0jZxe4ORQc02mA0DyAc7AvFYA/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="Una Chica Bonita como Tu 2022" tvg-logo="https://www.covercity.net/displaycover/medium/4b26954bfa5cc3ea295cdfb24183fd5a" ,Una Chica Bonita como Tu 2022
+http://77.26.132.122:30200/2199/IS9F9JHXPUcJjmZ0rc2rQdd7OQYA/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="Uncharted 2022" tvg-logo="https://www.covercity.net/displaycover/medium/b922272d7bf0709edd414855b6f08d3a" ,Uncharted 2022 
+http://77.26.132.122:30200/2200/1rlkNr6oc9ToAj4sPIpx4uQ3RWcA/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="Venganza 2022" tvg-logo="https://www.covercity.net/displaycover/medium/ae60e39b1b174c4d269e0e0ea8f66c8d" ,Venganza 2022
+http://77.26.132.122:30200/2201/iqoynzXYL6HR4Gu5UsdiRxqAU94A/000000.m3u8 
+#EXTINF:-1  group-title="Peliculas" tvg-id="Way Down 2022" tvg-logo="" ,Way Down 2022 
+http://77.26.132.122:30200/2202/wsVhJqxemp65VWVfkqi658rRhQQA/000000.m3u8 
+#EXTINF:-1  group-title="Peliculas" tvg-id="West Side Story 2022" tvg-logo="https://www.covercity.net/displaycover/medium/05c3faa929780f005ab9b7853df2e7f5" ,West Side Story 2022 
+http://77.26.132.122:30200/2203/5FfvFlFFOrrBrDEth43ErPdP3dgA/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="Agente 355 2022" tvg-logo="https://www.covercity.net/displaycover/medium/73c8e85de2aff98b33f701529abac873" ,Agente 355 2022
+http://77.26.132.122:30200/2228/JKAPY1SgM43hgsv8dy0DsGqqaFIA/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="Agente Invisible 2022" tvg-logo="https://www.covercity.net/displaycover/medium/d116e3087b40d21971f8b3afd5e28303" ,Agente Invisible 2022
+http://77.26.132.122:30200/2229/WSErB4u60HBic1YqZNIjCghKgGEA/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="Aguas Profundas 2022" tvg-logo="https://www.covercity.net/displaycover/medium/4dd31ebce593b90bc189f62d14cdd8ce" ,Aguas Profundas 2022 
+http://77.26.132.122:30200/2230/nrvFdqyV9S9YzQvep5G8uVpmH7YA/000000.m3u8 
+#EXTINF:-1  group-title="Peliculas" tvg-id="Apex Depredador alpha 2022" tvg-logo="https://www.covercity.net/displaycover/medium/ba380a51423a864e9133fc75c36564bc" ,Apex Depredador alpha 2022 
+http://77.26.132.122:30200/2231/3kVYhck3CAI71Eholw7CbAJLAoQA/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="Ciudad Perdida 2022" tvg-logo="https://www.covercity.net/displaycover/medium/5698d00459943abee20145ecb2da4c51" ,Ciudad Perdida 2022
+http://77.26.132.122:30200/2232/oyItdYl4vEtTLwiOoFSN00xDtY8A/000000.m3u8 
+#EXTINF:-1  group-title="Peliculas" tvg-id="Clifford 2022" tvg-logo="https://www.covercity.net/displaycover/medium/91a7b1cea352afd3b0d4764d8cb56c4d" ,Clifford 2022 
+http://77.26.132.122:30200/2233/27p29J3CPAXX4faKwaL8ipXFlbcA/000000.m3u8 
+#EXTINF:-1  group-title="Peliculas" tvg-id="Codigo Banshe 2022" tvg-logo="https://www.covercity.net/displaycover/medium/e7608050555f2f89073e0ef8496cd66f" ,Codigo Banshe 2022 
+http://77.26.132.122:30200/2234/yTUIS1ZuOwdprw8URzZU8aXiIgMA/000000.m3u8 
+#EXTINF:-1  group-title="Peliculas" tvg-id="El Callejon de las Almas Perdidas 2022" tvg-logo="https://www.covercity.net/displaycover/medium/cdb238fa074950f10ce0d5aaa029cf3a" ,El Callejon de las Almas Perdidas 2022 
+http://77.26.132.122:30200/2235/lO6HnJjAi6yRnsG1kFumBFVX3FsA/000000.m3u8 
+#EXTINF:-1  group-title="Peliculas" tvg-id="El Chicano 2022" tvg-logo="https://www.covercity.net/displaycover/medium/af8a9830f7cdea423e8e5c86163eaef4" ,El Chicano 2022 
+http://77.26.132.122:30200/2236/aFvSinsZsPru5SZJwWRpAAKYoBEA/000000.m3u8
+#EXTINF:-1  group-title="Peliculass" tvg-id="El Contador de Cartas 2022" tvg-logo="https://www.covercity.net/displaycover/medium/2f26991d1470aa1d9b9034ca58a74c85" ,El Contador de Cartas 2022
+http://77.26.132.122:30200/2237/AqHAWqWpoNIAsqBRNcsANRqhcOMA/000000.m3u8 
+#EXTINF:-1  group-title="Peliculas" tvg-id="El hombre del norte 2022" tvg-logo="https://www.covercity.net/displaycover/medium/1c5337dfd0eb86b5f4cfb98f58053e72" ,El hombre del norte 2022 
+http://77.26.132.122:30200/2238/mohSLmRvkZS4xYvDn1x0wyq9SAIA/000000.m3u8 
+#EXTINF:-1  group-title="Peliculas" tvg-id="El insoportable peso de un talento descomunal 2022" tvg-logo="https://www.covercity.net/displaycover/medium/f0dd2636bff6bda6a5aa41ad91cceb23" ,El insoportable peso de un talento descomunal 2022 
+http://77.26.132.122:30200/2239/7x4KSzYcazIVJ9PwIlQz8yy3GlcA/000000.m3u8 
+#EXTINF:-1  group-title="Peliculas" tvg-id="El Metodo Williams 2022" tvg-logo="https://www.covercity.net/displaycover/medium/4faff55613f631cd58cd4741a83f7d36" ,El Metodo Williams 2022 
+http://77.26.132.122:30200/2240/iwu7Djv6fJH87MpdOA5IdTm0Qt4A/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="El Triangulo del Diablo 2022" tvg-logo="https://www.covercity.net/displaycover/medium/27ce8d99f88733f6b1588a72980660ac" ,El Triangulo del Diablo 2022 
+http://77.26.132.122:30200/2241/WAeaM6KnqMAjJ06XAkAfj9Ou8XQA/000000.m3u8 
+#EXTINF:-1  group-title="Peliculas" tvg-id="Eraser Renacer 2022" tvg-logo="https://www.covercity.net/displaycover/medium/289b104e05af514fcca1ec1b25613346" ,Eraser Renacer 2022
+http://77.26.132.122:30200/2243/zzius1SP4ObLPne9tytf9eHW4uMA/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="Heroe de dos Mundos 2022" tvg-logo="https://www.covercity.net/displaycover/medium/e9ea14a863b38ae182eaf8a70075ffce" ,Heroe de dos Mundos 2022 
+http://77.26.132.122:30200/2244/FNu652yXfU6aMwyfnZi6ZbOm9DwA/000000.m3u8 
+#EXTINF:-1  group-title="Peliculas" tvg-id="Kimi 2022" tvg-logo="https://www.covercity.net/displaycover/medium/84ee7e0344631a4b112bc37415b26199" ,Kimi 2022 
+http://77.26.132.122:30200/2245/gpW2Z1mdo7BIAOADfGKO4LwsQdIA/000000.m3u8 
+#EXTINF:-1  group-title="Peliculas" tvg-id="Kung-Fu Zohra 2022" tvg-logo="https://www.covercity.net/displaycover/medium/970c92c701b5cc758b328676c17f79b0" ,Kung-Fu Zohra 2022
+http://77.26.132.122:30200/2246/gPXj7XqDcAAq7A7mzk8eAJZ77bgA/000000.m3u8
