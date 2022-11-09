@@ -7,16 +7,10 @@ http://77.26.132.122:30200/2095/ARxnA6utCZ1N9e4rwgBCKAYDB5YA/000000.m3u8
 http://77.26.132.122:30200/2096/AWdRpU0qsdgOsMV4dgJ90OAKyOkA/000000.m3u8
 #EXTINF:-1  group-title="Peliculas" tvg-id="Fullmetal Alchemist La venganza de cicatriz 2022" tvg-logo="https://www.covercity.net/displaycover/medium/a9c92c647781a689f550c0c015465b24" ,Fullmetal Alchemist La venganza de cicatriz 2022
 http://77.26.132.122:30200/2097/rpYUPqAtbuaaAqBJ4TdovveWl6oA/000000.m3u8
-#EXTINF:-1  group-title="Peliculas" tvg-id="Jungle Cruise 2021" tvg-logo="https://www.covercity.net/displaycover/medium/56f050928616063bb29cb3b53442b744" ,Jungle Cruise 2021 
-http://77.26.132.122:30200/2098/M4BOhVhANbp46lUKVhZfY7vVYyUA/000000.m3u8
 #EXTINF:-1  group-title="Peliculas" tvg-id="Jurassic World Dominion 2022" tvg-logo="https://www.covercity.net/displaycover/medium/e2dbeaa9e1f0b818e775fc33547c1f56" ,Jurassic World Dominion 2022 
 http://77.26.132.122:30200/2099/0doe44fAHVrnQW4aKdAJhU9HOR0A/000000.m3u8 
-#EXTINF:-1  group-title="Peliculas" tvg-id="La Guerra del Mañana 2021" tvg-logo="https://www.covercity.net/displaycover/medium/00f449a00e6ebd5c04268c8902f6f1e2" ,La Guerra del Mañana 2021 
-http://77.26.132.122:30200/2100/ZXTcaAtrYAiB7X4QQ8pJB97CxEwA/000000.m3u8
 #EXTINF:-1  group-title="Peliculas" tvg-id="Mar Del Norte 2022" tvg-logo="https://www.covercity.net/displaycover/medium/8b7ed449ff3b1586f6549130c7abb2fc" ,Mar Del Norte 2022
 http://77.26.132.122:30200/2101/tjRPWwlU0w37PNxwwoypHrfFElIA/000000.m3u8
-#EXTINF:-1  group-title="Peliculas" tvg-id="Monster Hunter 2021" tvg-logo="https://www.covercity.net/displaycover/medium/ed9946dca8c779f9cabac3eecc392207" ,Monster Hunter 2021 
-http://77.26.132.122:30200/2102/n8rMkZHX6lZAqga6JoWvAvPiIAEA/000000.m3u8
 #EXTINF:-1  group-title="Peliculas" tvg-id="Padre No Hay Mas Que Uno 3 2022" tvg-logo="" ,Padre No Hay Mas Que Uno 3 2022
 http://77.26.132.122:30200/2103/9zk0YyWvc8YfkKzAzeA1PnwcMWAA/000000.m3u8 
 #EXTINF:-1  group-title="Peliculas" tvg-id="Persecucion Mortal 2022" tvg-logo="https://www.covercity.net/displaycover/medium/1b0fd9081f5d48c2075cb3c85656ed0f" ,Persecucion Mortal 2022 
@@ -31,16 +25,6 @@ http://77.26.132.122:30200/2107/Lu0MwNVyRPMpVWACh5csbAWDbn8A/000000.m3u8
 http://77.26.132.122:30200/2108/TyY3OlhDh3OUg1I5BJ5ClK989KkA/000000.m3u8
 #EXTINF:-1  group-title="Peliculas" tvg-id="Samaritan 2022" tvg-logo="https://www.covercity.net/displaycover/medium/5afdfd4058259bbb411b6e245267eee5" ,Samaritan 2022
 http://77.26.132.122:30200/2109/usIDbUaaOBE8sEAai10QHSAn4RoA/000000.m3u8 
-#EXTINF:-1  group-title="Peliculas" tvg-id="SAS El ascenso del Cisne Negro 2021" tvg-logo="https://www.covercity.net/displaycover/medium/1e36e87a7f340e0a3fc447a8a62e4e9f" ,SAS El ascenso del Cisne Negro 2021
-http://77.26.132.122:30200/2110/yAgDZLkwCpK2TDZoKTRPuLte9Y4A/000000.m3u8
-#EXTINF:-1  group-title="Peliculas" tvg-id="Shang Chin y los 10 Anillos 2021" tvg-logo="https://www.covercity.net/displaycover/medium/9e134534065a17f3356d48f1c54b75b3" ,Shang Chin y los 10 Anillos 2021
-http://77.26.132.122:30200/2111/QHaxeD5RicntG8qM8Ek5wTR1P0YA/000000.m3u8
-#EXTINF:-1  group-title="Peliculas" tvg-id="Sin Tiempo Para Morir 2021" tvg-logo="https://www.covercity.net/displaycover/medium/464e2424395ad1a36163ae529f3c3be9" ,Sin Tiempo Para Morir 2021 
-http://77.26.132.122:30200/2112/ABdH5RzFYCweBjSUM8h4iFX8qiUA/000000.m3u8 
-#EXTINF:-1  group-title="Peliculas" tvg-id="Snake Eyes El Origen 2021" tvg-logo="https://www.covercity.net/displaycover/medium/a4a3158ee9751c85efd2480dd2536888" ,Snake Eyes El Origen 2021 
-http://77.26.132.122:30200/2113/mESYVqAoIJmqTNXY3JfNRxOxKXAA/000000.m3u8
-#EXTINF:-1  group-title="Peliculas" tvg-id="Sobreviviendo en Marte 2021" tvg-logo="https://www.covercity.net/displaycover/medium/ebec2e113036eb5e944db691018ff4f8" ,Sobreviviendo en Marte 2021
-http://77.26.132.122:30200/2114/Wn2MeiWCWtt37VD37ZToa5RtgoQA/000000.m3u8 
 #EXTINF:-1  group-title="Peliculas" tvg-id="Thor Love and Thunder 2022" tvg-logo="https://www.covercity.net/displaycover/medium/8c97d9799092e3f7b236fd99298eb089" ,Thor Love and Thunder 2022 
 http://77.26.132.122:30200/2115/lv7qntZVRS0MOQVh6DfNFX8EgMEA/000000.m3u8 
 #EXTINF:-1  group-title="Peliculas" tvg-id="Top Gun Maverick 2022" tvg-logo="https://www.covercity.net/displaycover/medium/2a058cede4cebb57d35e0822f36496f1" ,Top Gun Maverick 2022 
@@ -91,3 +75,67 @@ http://77.26.132.122:30200/2244/FNu652yXfU6aMwyfnZi6ZbOm9DwA/000000.m3u8
 http://77.26.132.122:30200/2245/gpW2Z1mdo7BIAOADfGKO4LwsQdIA/000000.m3u8 
 #EXTINF:-1  group-title="Peliculas" tvg-id="Kung-Fu Zohra 2022" tvg-logo="https://www.covercity.net/displaycover/medium/970c92c701b5cc758b328676c17f79b0" ,Kung-Fu Zohra 2022
 http://77.26.132.122:30200/2246/gPXj7XqDcAAq7A7mzk8eAJZ77bgA/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="Moonfall 2022" tvg-logo="https://www.covercity.net/displaycover/medium/5eca8802084af4c1a9de52069a73697e" ,Moonfall 2022
+http://77.26.132.122:30200/2083/0ui6S6VS8SrJQZPNTGnt0wrcql8A/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="Portales 2022" tvg-logo="https://www.covercity.net/displaycover/medium/015a9642f7542ea42880d65e63fc07d9" ,Portales 2022 
+http://77.26.132.122:30200/2084/8XPgycUs71njQIryRA8ZAwx3d94A/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="Predator La presa 2022" tvg-logo="https://www.covercity.net/displaycover/medium/ffdc8c6f7e00645cb214b52c1a97c08f" ,Predator La presa 2022 
+http://77.26.132.122:30200/2085/qvEhAqQlOADZlAtSAC3wxf2fpZcA/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="Prisioneros de Ghostland 2022" tvg-logo="https://www.covercity.net/displaycover/medium/4bbf33ca4418f03bb7ae0def619626d5" ,Prisioneros de Ghostland 2022 
+http://77.26.132.122:30200/2086/MwP5CVEcokOK22q4HeEhv521A8kA/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="Scream 2022" tvg-logo="https://www.covercity.net/displaycover/medium/5a05652ef262d40c5f033f12fb70a83b" ,Scream 2022 
+http://77.26.132.122:30200/2087/tYKCwNJvbjODDqGVI4BiZFpS0WYA/000000.m3u8 
+#EXTINF:-1  group-title="Peliculas" tvg-id="Sonic 2 2022" tvg-logo="https://www.covercity.net/displaycover/medium/7e9e59649952d5a61f4b61c21d259295" ,Sonic 2 2022 
+http://77.26.132.122:30200/2088/zlOqjVUEA9gXZL2vWC3ARAcKdAsA/000000.m3u8 
+#EXTINF:-1  group-title="Peliculas" tvg-id="The Batman 2022" tvg-logo="https://www.covercity.net/displaycover/medium/628981154096e0766622a684b99a9ba9" ,The Batman 2022
+http://77.26.132.122:30200/2089/VnxrorCDAUbXo1Bz8aPaIpGWrdgA/000000.m3u8 
+#EXTINF:-1  group-title="Peliculas" tvg-id="The Colony 2022" tvg-logo="https://www.covercity.net/displaycover/medium/99390d7946b38974b5b139ed720b70f5" ,The Colony 2022 
+http://77.26.132.122:30200/2090/cxjrCKq0wwdrvpYWQd0gNucBTu0A/000000.m3u8 
+#EXTINF:-1  group-title="Peliculas" tvg-id="Todo a la vez en todas partes 2022" tvg-logo="https://www.covercity.net/displaycover/medium/6f895b5f52a0310fd7922d5e5f67a40e" ,Todo a la vez en todas partes 2022 
+http://77.26.132.122:30200/2091/A37dOX4xHAmvTgowfsyMg41PuSIA/000000.m3u8 
+#EXTINF:-1  group-title="Peliculas" tvg-id="Zeros and Ones 2022" tvg-logo="https://www.covercity.net/displaycover/medium/456e97d858a7a2f9df5c8f6b763074a1" ,Zeros and Ones 2022 
+http://77.26.132.122:30200/2092/R8MJIBPPKBwYpFXkPuunFYW2GnoA/000000.m3u8 
+#EXTINF:-1  group-title="Peliculas" tvg-id="Cazafantasmas, Mas Alla 2021" tvg-logo="https://www.covercity.net/displaycover/medium/2c00d3ba98461513cfe0353d56b9b812" ,Cazafantasmas, Mas Alla 2021
+http://77.26.132.122:30200/2049/gryy8cR0R9k42gAGWjywx5W900gA/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="Cenicienta 2021" tvg-logo="https://pics.filmaffinity.com/cinderella-722492509-large.jpg" ,Cenicienta 2021 
+http://77.26.132.122:30200/2050/jmEo2I005Au0ydNLR15L3UKabuIA/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="Cruela 2021" tvg-logo="https://pics.filmaffinity.com/cruella-196211257-large.jpg" ,Cruela 2021 
+http://77.26.132.122:30200/2051/zBMP4QeVmyc1xGAicUoC3E12CjwA/000000.m3u8 
+#EXTINF:-1  group-title="Peliculas" tvg-id="Dune 2021" tvg-logo="https://pics.filmaffinity.com/dune-209834814-large.jpg" ,Dune 2021 
+http://77.26.132.122:30200/2052/sijO4TSfbgmjfHZFbGe3w8bQ94sA/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="El Ejercito De Los Muertos 2021" tvg-logo="https://pics.filmaffinity.com/army_of_the_dead-932568587-large.jpg" ,El Ejercito De Los Muertos 2021
+http://77.26.132.122:30200/2053/o56Yxcq6SYEy8AG7NEmT32fuwhsA/000000.m3u8 
+#EXTINF:-1  group-title="Peliculas" tvg-id="El Escuadron Suicida 2021" tvg-logo="https://pics.filmaffinity.com/the_suicide_squad-629689677-large.jpg" ,El Escuadron Suicida 2021 
+http://77.26.132.122:30200/2054/IcICz7qo4XuhvASondsdW3JqI6MA/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="El Otro Guardaespaldas 2 2021" tvg-logo="https://pics.filmaffinity.com/hitman_s_wife_s_bodyguard-803481917-large.jpg" ,El Otro Guardaespaldas 2 2021
+http://77.26.132.122:30200/2055/AY5PNjRN2B1bVlzVuxrKNJXlFqMA/000000.m3u8 
+#EXTINF:-1  group-title="Peliculas" tvg-id="Free Guy 2021" tvg-logo="https://pics.filmaffinity.com/free_guy-297648487-large.jpg" ,Free Guy 2021
+http://77.26.132.122:30200/2056/B20bakOnz4bJD1X054gtJOIIGYsA/000000.m3u8 
+#EXTINF:-1  group-title="Peliculas" tvg-id="Infinite 2021" tvg-logo="https://pics.filmaffinity.com/infinite-926019748-large.jpg" ,Infinite 2021
+http://77.26.132.122:30200/2057/tnYPCyANFKPJM9pyhOAOAzU6UAAA/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="Ladrones de Elite 2021" tvg-logo="https://pics.filmaffinity.com/the_misfits-104388327-large.jpg" ,Ladrones de Elite 2021 
+http://77.26.132.122:30200/2058/QobBVqfqLIfFZZyVM0atW9ZETuoA/000000.m3u8 
+#EXTINF:-1  group-title="Peliculas" tvg-id="Mortal Kombat 2021" tvg-logo="https://pics.filmaffinity.com/mortal_kombat-245960455-large.jpg" ,Mortal Kombat 2021 
+http://77.26.132.122:30200/2059/Ck8UEDG0ebyDLw2rItQPktLZ14oA/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="Reminiscencia 2021" tvg-logo="https://pics.filmaffinity.com/reminiscence-287058719-large.jpg" ,Reminiscencia 2021 
+http://77.26.132.122:30200/2060/uwiTCcvsYbmvAeOAb75ASmWNcNEA/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="Rey de Zamunda 2021" tvg-logo="https://pics.filmaffinity.com/coming_2_america-750355750-large.jpg" ,Rey de Zamunda 2021 
+http://77.26.132.122:30200/2061/akOfo1eXkxckiGAWbmSExQiKLUMA/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="Venom Habrá Matanza 2021" tvg-logo="https://pics.filmaffinity.com/venom_let_there_be_carnage-352790832-large.jpg" ,Venom Habrá Matanza 2021 
+http://77.26.132.122:30200/2062/qZiDgacBNx0JqZ0HvSciEWHJRpkA/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="Jungle Cruise 2021" tvg-logo="https://www.covercity.net/displaycover/medium/56f050928616063bb29cb3b53442b744" ,Jungle Cruise 2021 
+http://77.26.132.122:30200/2098/M4BOhVhANbp46lUKVhZfY7vVYyUA/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="La Guerra del Mañana 2021" tvg-logo="https://www.covercity.net/displaycover/medium/00f449a00e6ebd5c04268c8902f6f1e2" ,La Guerra del Mañana 2021 
+http://77.26.132.122:30200/2100/ZXTcaAtrYAiB7X4QQ8pJB97CxEwA/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="Monster Hunter 2021" tvg-logo="https://www.covercity.net/displaycover/medium/ed9946dca8c779f9cabac3eecc392207" ,Monster Hunter 2021 
+http://77.26.132.122:30200/2102/n8rMkZHX6lZAqga6JoWvAvPiIAEA/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="SAS El ascenso del Cisne Negro 2021" tvg-logo="https://www.covercity.net/displaycover/medium/1e36e87a7f340e0a3fc447a8a62e4e9f" ,SAS El ascenso del Cisne Negro 2021
+http://77.26.132.122:30200/2110/yAgDZLkwCpK2TDZoKTRPuLte9Y4A/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="Shang Chin y los 10 Anillos 2021" tvg-logo="https://www.covercity.net/displaycover/medium/9e134534065a17f3356d48f1c54b75b3" ,Shang Chin y los 10 Anillos 2021
+http://77.26.132.122:30200/2111/QHaxeD5RicntG8qM8Ek5wTR1P0YA/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="Sin Tiempo Para Morir 2021" tvg-logo="https://www.covercity.net/displaycover/medium/464e2424395ad1a36163ae529f3c3be9" ,Sin Tiempo Para Morir 2021 
+http://77.26.132.122:30200/2112/ABdH5RzFYCweBjSUM8h4iFX8qiUA/000000.m3u8 
+#EXTINF:-1  group-title="Peliculas" tvg-id="Snake Eyes El Origen 2021" tvg-logo="https://www.covercity.net/displaycover/medium/a4a3158ee9751c85efd2480dd2536888" ,Snake Eyes El Origen 2021 
+http://77.26.132.122:30200/2113/mESYVqAoIJmqTNXY3JfNRxOxKXAA/000000.m3u8
+#EXTINF:-1  group-title="Peliculas" tvg-id="Sobreviviendo en Marte 2021" tvg-logo="https://www.covercity.net/displaycover/medium/ebec2e113036eb5e944db691018ff4f8" ,Sobreviviendo en Marte 2021
+http://77.26.132.122:30200/2114/Wn2MeiWCWtt37VD37ZToa5RtgoQA/000000.m3u8
