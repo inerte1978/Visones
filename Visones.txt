@@ -109,7 +109,7 @@ http://77.26.132.122:30200/2053/o56Yxcq6SYEy8AG7NEmT32fuwhsA/000000.m3u8
 http://77.26.132.122:30200/2054/IcICz7qo4XuhvASondsdW3JqI6MA/000000.m3u8
 #EXTINF:-1  group-title="Peliculas" tvg-id="El Otro Guardaespaldas 2 2021" tvg-logo="https://pics.filmaffinity.com/hitman_s_wife_s_bodyguard-803481917-large.jpg" ,El Otro Guardaespaldas 2 2021
 http://77.26.132.122:30200/2055/AY5PNjRN2B1bVlzVuxrKNJXlFqMA/000000.m3u8 
-#EXTINF:-1  group-title="Peliculas" tvg-id="Free Guy 2021" tvg-logo="https://pics.filmaffinity.com/free_guy-297648487-large.jpg" ,Free Guy 2021
+#EXTINF:-1  group-title="Peliculas" tvg-id="Free Guy 2021" tvg-logo="https://www.covercaratulas.com/ode2/carteles/Free_Guy_por_chechelin.jpg" ,Free Guy 2021
 http://77.26.132.122:30200/2056/B20bakOnz4bJD1X054gtJOIIGYsA/000000.m3u8 
 #EXTINF:-1  group-title="Peliculas" tvg-id="Infinite 2021" tvg-logo="https://pics.filmaffinity.com/infinite-926019748-large.jpg" ,Infinite 2021
 http://77.26.132.122:30200/2057/tnYPCyANFKPJM9pyhOAOAzU6UAAA/000000.m3u8
