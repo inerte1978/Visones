@@ -97,31 +97,31 @@ http://77.26.132.122:30200/2091/A37dOX4xHAmvTgowfsyMg41PuSIA/000000.m3u8
 http://77.26.132.122:30200/2092/R8MJIBPPKBwYpFXkPuunFYW2GnoA/000000.m3u8 
 #EXTINF:-1  group-title="Peliculas" tvg-id="Cazafantasmas, Mas Alla 2021" tvg-logo="https://www.covercity.net/displaycover/medium/2c00d3ba98461513cfe0353d56b9b812" ,Cazafantasmas, Mas Alla 2021
 http://77.26.132.122:30200/2049/gryy8cR0R9k42gAGWjywx5W900gA/000000.m3u8
-#EXTINF:-1  group-title="Peliculas" tvg-id="Cenicienta 2021" tvg-logo="https://www.covercaratulas.com/caratulajpg/41674/carteles/Cenicienta_2021_V2_Por_Mrandrewpalace/" ,Cenicienta 2021 
+#EXTINF:-1  group-title="Peliculas" tvg-id="Cenicienta 2021" tvg-logo="https://www.covercaratulas.com/ode2/carteles/Cenicienta_-_2021_-_V2_por_mrandrewpalace.jpg" ,Cenicienta 2021 
 http://77.26.132.122:30200/2050/jmEo2I005Au0ydNLR15L3UKabuIA/000000.m3u8
-#EXTINF:-1  group-title="Peliculas" tvg-id="Cruela 2021" tvg-logo="https://pics.filmaffinity.com/cruella-196211257-large.jpg" ,Cruela 2021 
+#EXTINF:-1  group-title="Peliculas" tvg-id="Cruela 2021" tvg-logo="https://www.covercaratulas.com/ode2/carteles/Cruella_-_V5_por_mrandrewpalace.jpg" ,Cruela 2021 
 http://77.26.132.122:30200/2051/zBMP4QeVmyc1xGAicUoC3E12CjwA/000000.m3u8 
-#EXTINF:-1  group-title="Peliculas" tvg-id="Dune 2021" tvg-logo="https://pics.filmaffinity.com/dune-209834814-large.jpg" ,Dune 2021 
+#EXTINF:-1  group-title="Peliculas" tvg-id="Dune 2021" tvg-logo="https://www.covercaratulas.com/ode2/carteles/Dune_-_2021_-_V17_por_chechelin.jpg" ,Dune 2021 
 http://77.26.132.122:30200/2052/sijO4TSfbgmjfHZFbGe3w8bQ94sA/000000.m3u8
-#EXTINF:-1  group-title="Peliculas" tvg-id="El Ejercito De Los Muertos 2021" tvg-logo="https://pics.filmaffinity.com/army_of_the_dead-932568587-large.jpg" ,El Ejercito De Los Muertos 2021
+#EXTINF:-1  group-title="Peliculas" tvg-id="El Ejercito De Los Muertos 2021" tvg-logo="https://www.covercaratulas.com/ode2/carteles/El_Ejercito_De_Los_Muertos_-_2021_-_V2_por_mrandrewpalace.jpg" ,El Ejercito De Los Muertos 2021
 http://77.26.132.122:30200/2053/o56Yxcq6SYEy8AG7NEmT32fuwhsA/000000.m3u8 
-#EXTINF:-1  group-title="Peliculas" tvg-id="El Escuadron Suicida 2021" tvg-logo="https://pics.filmaffinity.com/the_suicide_squad-629689677-large.jpg" ,El Escuadron Suicida 2021 
+#EXTINF:-1  group-title="Peliculas" tvg-id="El Escuadron Suicida 2021" tvg-logo="https://www.covercaratulas.com/ode2/carteles/El_Escuadron_Suicida_-_V02_por_mrandrewpalace.jpg" ,El Escuadron Suicida 2021 
 http://77.26.132.122:30200/2054/IcICz7qo4XuhvASondsdW3JqI6MA/000000.m3u8
-#EXTINF:-1  group-title="Peliculas" tvg-id="El Otro Guardaespaldas 2 2021" tvg-logo="https://pics.filmaffinity.com/hitman_s_wife_s_bodyguard-803481917-large.jpg" ,El Otro Guardaespaldas 2 2021
+#EXTINF:-1  group-title="Peliculas" tvg-id="El Otro Guardaespaldas 2 2021" tvg-logo="https://www.covercaratulas.com/ode2/carteles/El_Otro_Guardaespaldas_2_-_V2_por_chechelin.jpg" ,El Otro Guardaespaldas 2 2021
 http://77.26.132.122:30200/2055/AY5PNjRN2B1bVlzVuxrKNJXlFqMA/000000.m3u8 
 #EXTINF:-1  group-title="Peliculas" tvg-id="Free Guy 2021" tvg-logo="https://www.covercaratulas.com/ode2/carteles/Free_Guy_por_chechelin.jpg" ,Free Guy 2021
 http://77.26.132.122:30200/2056/B20bakOnz4bJD1X054gtJOIIGYsA/000000.m3u8 
-#EXTINF:-1  group-title="Peliculas" tvg-id="Infinite 2021" tvg-logo="https://pics.filmaffinity.com/infinite-926019748-large.jpg" ,Infinite 2021
+#EXTINF:-1  group-title="Peliculas" tvg-id="Infinite 2021" tvg-logo="https://www.covercaratulas.com/ode2/carteles/Infinite_-_V3_por_mrandrewpalace.jpg" ,Infinite 2021
 http://77.26.132.122:30200/2057/tnYPCyANFKPJM9pyhOAOAzU6UAAA/000000.m3u8
-#EXTINF:-1  group-title="Peliculas" tvg-id="Ladrones de Elite 2021" tvg-logo="https://pics.filmaffinity.com/the_misfits-104388327-large.jpg" ,Ladrones de Elite 2021 
+#EXTINF:-1  group-title="Peliculas" tvg-id="Ladrones de Elite 2021" tvg-logo="https://www.covercity.net/displaycover/medium/1353088e779a57ecca6d83d9c6213c91" ,Ladrones de Elite 2021 
 http://77.26.132.122:30200/2058/QobBVqfqLIfFZZyVM0atW9ZETuoA/000000.m3u8 
-#EXTINF:-1  group-title="Peliculas" tvg-id="Mortal Kombat 2021" tvg-logo="https://pics.filmaffinity.com/mortal_kombat-245960455-large.jpg" ,Mortal Kombat 2021 
+#EXTINF:-1  group-title="Peliculas" tvg-id="Mortal Kombat 2021" tvg-logo="https://www.covercaratulas.com/ode2/carteles/Mortal_Kombat_-_2021_-_V15_por_mrandrewpalace.jpg" ,Mortal Kombat 2021 
 http://77.26.132.122:30200/2059/Ck8UEDG0ebyDLw2rItQPktLZ14oA/000000.m3u8
-#EXTINF:-1  group-title="Peliculas" tvg-id="Reminiscencia 2021" tvg-logo="https://pics.filmaffinity.com/reminiscence-287058719-large.jpg" ,Reminiscencia 2021 
+#EXTINF:-1  group-title="Peliculas" tvg-id="Reminiscencia 2021" tvg-logo="https://www.covercaratulas.com/ode2/carteles/Reminiscencia_-_V2_por_mrandrewpalace.jpg" ,Reminiscencia 2021 
 http://77.26.132.122:30200/2060/uwiTCcvsYbmvAeOAb75ASmWNcNEA/000000.m3u8
-#EXTINF:-1  group-title="Peliculas" tvg-id="Rey de Zamunda 2021" tvg-logo="https://pics.filmaffinity.com/coming_2_america-750355750-large.jpg" ,Rey de Zamunda 2021 
+#EXTINF:-1  group-title="Peliculas" tvg-id="Rey de Zamunda 2021" tvg-logo="https://www.covercaratulas.com/ode2/carteles/El_Rey_De_Zamunda_-_V2_por_tonype.jpg" ,Rey de Zamunda 2021 
 http://77.26.132.122:30200/2061/akOfo1eXkxckiGAWbmSExQiKLUMA/000000.m3u8
-#EXTINF:-1  group-title="Peliculas" tvg-id="Venom Habrá Matanza 2021" tvg-logo="https://pics.filmaffinity.com/venom_let_there_be_carnage-352790832-large.jpg" ,Venom Habrá Matanza 2021 
+#EXTINF:-1  group-title="Peliculas" tvg-id="Venom Habrá Matanza 2021" tvg-logo="https://www.covercaratulas.com/ode2/carteles/Venom_-_Habra_Matanza_-_V4_por_chechelin.jpg" ,Venom Habrá Matanza 2021 
 http://77.26.132.122:30200/2062/qZiDgacBNx0JqZ0HvSciEWHJRpkA/000000.m3u8
 #EXTINF:-1  group-title="Peliculas" tvg-id="Jungle Cruise 2021" tvg-logo="https://www.covercity.net/displaycover/medium/56f050928616063bb29cb3b53442b744" ,Jungle Cruise 2021 
 http://77.26.132.122:30200/2098/M4BOhVhANbp46lUKVhZfY7vVYyUA/000000.m3u8
