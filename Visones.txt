@@ -97,7 +97,7 @@ http://77.26.132.122:30200/2091/A37dOX4xHAmvTgowfsyMg41PuSIA/000000.m3u8
 http://77.26.132.122:30200/2092/R8MJIBPPKBwYpFXkPuunFYW2GnoA/000000.m3u8 
 #EXTINF:-1  group-title="Peliculas" tvg-id="Cazafantasmas, Mas Alla 2021" tvg-logo="https://www.covercity.net/displaycover/medium/2c00d3ba98461513cfe0353d56b9b812" ,Cazafantasmas, Mas Alla 2021
 http://77.26.132.122:30200/2049/gryy8cR0R9k42gAGWjywx5W900gA/000000.m3u8
-#EXTINF:-1  group-title="Peliculas" tvg-id="Cenicienta 2021" tvg-logo="https://pics.filmaffinity.com/cinderella-722492509-large.jpg" ,Cenicienta 2021 
+#EXTINF:-1  group-title="Peliculas" tvg-id="Cenicienta 2021" tvg-logo="https://www.covercaratulas.com/caratulajpg/41674/carteles/Cenicienta_2021_V2_Por_Mrandrewpalace/" ,Cenicienta 2021 
 http://77.26.132.122:30200/2050/jmEo2I005Au0ydNLR15L3UKabuIA/000000.m3u8
 #EXTINF:-1  group-title="Peliculas" tvg-id="Cruela 2021" tvg-logo="https://pics.filmaffinity.com/cruella-196211257-large.jpg" ,Cruela 2021 
 http://77.26.132.122:30200/2051/zBMP4QeVmyc1xGAicUoC3E12CjwA/000000.m3u8 
