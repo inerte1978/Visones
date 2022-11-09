@@ -73,7 +73,7 @@ http://77.26.132.122:30200/2234/yTUIS1ZuOwdprw8URzZU8aXiIgMA/000000.m3u8
 http://77.26.132.122:30200/2235/lO6HnJjAi6yRnsG1kFumBFVX3FsA/000000.m3u8 
 #EXTINF:-1  group-title="Peliculas" tvg-id="El Chicano 2022" tvg-logo="https://www.covercity.net/displaycover/medium/af8a9830f7cdea423e8e5c86163eaef4" ,El Chicano 2022 
 http://77.26.132.122:30200/2236/aFvSinsZsPru5SZJwWRpAAKYoBEA/000000.m3u8
-#EXTINF:-1  group-title="Peliculass" tvg-id="El Contador de Cartas 2022" tvg-logo="https://www.covercity.net/displaycover/medium/2f26991d1470aa1d9b9034ca58a74c85" ,El Contador de Cartas 2022
+#EXTINF:-1  group-title="Peliculas" tvg-id="El Contador de Cartas 2022" tvg-logo="https://www.covercity.net/displaycover/medium/2f26991d1470aa1d9b9034ca58a74c85" ,El Contador de Cartas 2022
 http://77.26.132.122:30200/2237/AqHAWqWpoNIAsqBRNcsANRqhcOMA/000000.m3u8 
 #EXTINF:-1  group-title="Peliculas" tvg-id="El hombre del norte 2022" tvg-logo="https://www.covercity.net/displaycover/medium/1c5337dfd0eb86b5f4cfb98f58053e72" ,El hombre del norte 2022 
 http://77.26.132.122:30200/2238/mohSLmRvkZS4xYvDn1x0wyq9SAIA/000000.m3u8 
