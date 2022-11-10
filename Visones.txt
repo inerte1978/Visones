@@ -139,3 +139,27 @@ http://77.26.132.122:30200/2112/ABdH5RzFYCweBjSUM8h4iFX8qiUA/000000.m3u8
 http://77.26.132.122:30200/2113/mESYVqAoIJmqTNXY3JfNRxOxKXAA/000000.m3u8
 #EXTINF:-1  group-title="Peliculas" tvg-id="Sobreviviendo en Marte 2021" tvg-logo="https://www.covercity.net/displaycover/medium/ebec2e113036eb5e944db691018ff4f8" ,Sobreviviendo en Marte 2021
 http://77.26.132.122:30200/2114/Wn2MeiWCWtt37VD37ZToa5RtgoQA/000000.m3u8
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="Viuda Negra 2021" tvg-logo="https://www.covercaratulas.com/ode2/carteles/Viuda_Negra_-_V6_por_FRANVILLA.jpg" ,Viuda Negra 2021 
+http://77.26.132.122:30200/2063/WEOUEyq4e42BasOkzkLW0XcEbVsA/000000.m3u8 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="Basket Music" tvg-logo="http://static.metacritic.com/images/products/movies/2/19112666b43884f51a32fb16bce7088c.jpg" ,Basket Music 
+http://77.26.132.122:30200/2093/ATjGorbK4sRQvGqtUwG4hvgXeHkA/000000.m3u8 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="Fast And Furius 1" tvg-logo="https://www.covercity.net/displaycover/medium/3ebbfe205d7b377b0012e392f6af49f1" ,Fast And Furius 1 
+http://77.26.132.122:30200/2040/7fNbkdGa85IRRm3Ye5YH6SRFtygA/000000.m3u8 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="Fast And Furius 2" tvg-logo="https://www.covercaratulas.com/ode2/carteles/2_Fast_2_Furious_-_A_Todo_Gas_2_por_Fory2000_[carteles]_80.jpg" ,Fast And Furius 2 
+http://77.26.132.122:30200/2041/k3o945ePbFPlnU11P4iK8TW8RroA/000000.m3u8 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="Fast And Furius 3" tvg-logo="https://www.covercity.net/displaycover/medium/3ebbfe205d7b377b0012e392f6af49f1" ,Fast And Furius 3 
+http://77.26.132.122:30200/2042/A81OS7CAggb0QHdYciKqu2G3btQA/000000.m3u8 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="Fast And Furius 4" tvg-logo="https://www.covercaratulas.com/ode2/carteles/Fast_And_Furious_-_Aun_Mas_Rapido_por_PEPPITO_[carteles]_80.jpg" ,Fast And Furius 4 
+http://77.26.132.122:30200/2043/gAyFNNAqpyfV868eINKHkgVSfNUA/000000.m3u8
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="Fast And Furius 5" tvg-logo="https://www.covercaratulas.com/ode2/carteles/Fast_&_Furious_5_por_PEPPITO_[carteles]_80.jpg" ,Fast And Furius 5 
+http://77.26.132.122:30200/2044/YcfA20SmK2AcgK6xzeA2VFXbBmkA/000000.m3u8 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="Fast And Furius 6" tvg-logo="https://www.covercaratulas.com/ode2/carteles/Fast_&_Furious_6_-_V3_por_PEPPITO.jpg" ,Fast And Furius 6 
+http://77.26.132.122:30200/2045/Ap2GTSVJl8bzMOMFSyJtxMbpzdsA/000000.m3u8
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="Fast And Furius 7" tvg-logo="https://www.covercaratulas.com/ode2/carteles/Fast_&_Furious_7_-_V2_por_chechelin.jpg" ,Fast And Furius 7 
+http://77.26.132.122:30200/2046/nktAXzDtjxqPeARsADS4BLnA9AUA/000000.m3u8 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="Fast And Furius 8" tvg-logo="https://www.covercaratulas.com/ode2/carteles/Fast_&_Furious_-_Hobbs_&_Shaw_-_V2_por_chechelin.jpg" ,Fast And Furius 8 
+http://77.26.132.122:30200/2047/CAEW1kKAFltUIAARADw22tTUpwsA/000000.m3u8 
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="Fast And Furius 9" tvg-logo="https://www.covercaratulas.com/ode2/carteles/Fast_&_Furious_9_por_chechelin.jpg" ,Fast And Furius 9 
+http://77.26.132.122:30200/2048/NfwcKkLytASWtGaW9zTcxrDeAA4A/000000.m3u8
+#EXTINF:-1  group-title="Canales Latinos" tvg-id="El último dragón 1985" tvg-logo="https://www.covercaratulas.com/ode2/carteles/El_Ultimo_Dragon_por_PEPPITO.jpg" ,El último dragón 1985 
+http://77.26.132.122:30200/2078/2nQwUjrPy8rhWCaPTCx5a2F14AcA/000000.m3u8 
